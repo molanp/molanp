@@ -1,6 +1,6 @@
 ### 📈 GitHub Stats
 
-![Molanp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=molanp&show_icons=true)
+![Molanp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=molanp&show_icons=true&text_color=#36c9bc)
 
 ### 📎Common language
 
